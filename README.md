@@ -16,9 +16,10 @@ Welcome to my AWS Cloud Portfolio! This repository showcases practical, hands-on
 | ***[EC2 Web Server](./ec2-webserver) | An EC2 instance configured with a web server using a launch script and security group. | EC2, VPC, Security Groups |
 | ***[Serverless API](./lambda-api-gateway) | A serverless backend with AWS Lambda and API Gateway for scalable, cost-effective microservices. | Lambda, API Gateway, IAM |
 
-*** -> Project currently being built
+(***) -> Project currently being built
 
-** -> Planned/Not yet started
+(**) -> Planned/Not yet started
+
 ---
 
 ## 🧰 Tools & Technologies
