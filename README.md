@@ -17,7 +17,8 @@ Welcome to my AWS Cloud Portfolio! This repository showcases practical, hands-on
 | ***[Serverless API](./lambda-api-gateway) | A serverless backend with AWS Lambda and API Gateway for scalable, cost-effective microservices. | Lambda, API Gateway, IAM |
 
 *** -> Project currently being built
-** -. Planned/Not yet started
+
+** -> Planned/Not yet started
 ---
 
 ## 🧰 Tools & Technologies
