@@ -11,10 +11,10 @@ Welcome to my AWS Cloud Portfolio! This repository showcases practical, hands-on
 
 | Project | Description | Services Used |
 |--------|-------------|----------------|
-| **[S3 Static Website](./s3-static-website) | A simple static website hosted on S3 with CloudFront CDN, demonstrating AWS storage and delivery basics. | S3, CloudFront, Route 53 |
-| ***[Cloud Resume Challenge](./cloud-resume-challenge) | A full-stack project integrating an HTML resume with S3, CloudFront, Route 53, Lambda, API Gateway, DynamoDB, and CI/CD—designed to showcase end-to-end AWS proficiency. | S3, CloudFront, Route 53, Lambda, API Gateway, DynamoDB, GitHub Actions |
-| ***[EC2 Web Server](./ec2-webserver) | An EC2 instance configured with a web server using a launch script and security group. | EC2, VPC, Security Groups |
-| ***[Serverless API](./lambda-api-gateway) | A serverless backend with AWS Lambda and API Gateway for scalable, cost-effective microservices. | Lambda, API Gateway, IAM |
+| **[Cloud Resume Challenge](./cloud-resume-challenge) | A full-stack project integrating an HTML resume with S3, CloudFront, Route 53, Lambda, API Gateway, DynamoDB, and CI/CD—designed to showcase end-to-end AWS proficiency. | S3, CloudFront, Route 53, Lambda, API Gateway, DynamoDB, GitHub Actions |
+| ***[S3 Static Website](./s3-static-website) | A simple static website hosted on S3 with CloudFront CDN, demonstrating AWS storage and delivery basics. | S3, CloudFront, Route 53 |
+| **[EC2 Web Server](./ec2-webserver) | An EC2 instance configured with a web server using a launch script and security group. | EC2, VPC, Security Groups |
+| **[Serverless API](./lambda-api-gateway) | A serverless backend with AWS Lambda and API Gateway for scalable, cost-effective microservices. | Lambda, API Gateway, IAM |
 
 (***) -> Project currently being built
 
