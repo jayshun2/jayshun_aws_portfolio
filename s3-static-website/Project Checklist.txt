@@ -1,0 +1,24 @@
+Architecting
+[X] Build logical Diagram for STAGE 1 (R53 and S3 only, Drawio)
+
+Coding
+[X] Create HTML file for basic website (Hello World with Link to Github Repo)
+
+AWS Configuration
+[ ] Create an S3 bucket configured for static website hosting
+[ ] Enable public read access or configure bucket policy
+[ ] Upload website files (HTML/CSS/JS) to the S3 bucket
+[ ] Purchase Domain through R53
+[ ] Create a Route 53 hosted zone for the domain
+[ ] Create an A or CNAME record pointing to the S3 website endpoint
+
+
+Validation
+[ ] Verify public access to S3-hosted site via domain
+[ ] Confirm HTTP routing is working from Route 53 to S3
+
+Notification
+[ ] Notify network of completed project stage (LinkedIn, Facebook, X.com, Youtube)
+
+Upgrade
+[ ] Define Stage 2 and create project checklist
