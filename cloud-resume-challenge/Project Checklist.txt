@@ -1,6 +1,6 @@
 Frontend: Static Website Hosting with S3 and CloudFront
-[ ] Build your resume as a static website (HTML, CSS, JS)
-[ ] Create an S3 bucket (with Terraform) for static site hosting
+[X] Build your resume as a static website (HTML, CSS, JS)
+[ ] Create an S3 bucket for static site hosting
 [ ] Configure bucket to block public access and use CloudFront for delivery
 [ ] Upload website files to the S3 bucket using GitHub Actions
 [ ] Invalidate CloudFront cache after deployment (via GitHub Actions)
