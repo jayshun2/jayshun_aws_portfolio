@@ -94,10 +94,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7QnV7MvpBhV2Z_LGB0fN-18" value="AWS Console" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="553" y="120" width="60" height="30" as="geometry" />
+          <mxGeometry x="563" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7QnV7MvpBhV2Z_LGB0fN-19" value="Developer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="193" width="60" height="30" as="geometry" />
+          <mxGeometry x="300" y="163" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7QnV7MvpBhV2Z_LGB0fN-20" value="End User" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="418" width="60" height="30" as="geometry" />
