@@ -7,24 +7,24 @@ Coding
 AWS Configuration
 [X] Create an S3 bucket named hello.awsportfolio.jayfrench.cloud
 [X] Enable static website hosting on the bucket
-[ ] Configure bucket policy or Origin Access Control (OAC) for public/CloudFront read access
+[X] Configure bucket policy or Origin Access Control (OAC) for public/CloudFront read access
 [X] Upload website files (HTML/CSS/JS) to the S3 bucket
-[ ] Request ACM certificate for hello.awsportfolio.jayfrench.cloud in us-east-1
-[ ] Validate ACM certificate via DNS using Route 53
-[ ] Create a CloudFront Distribution for the site
-[ ] Configure CloudFront distribution with:
-  [ ] S3 origin
-  [ ] Default root object (index.html)
-  [ ] Alternate domain name (hello.awsportfolio.jayfrench.cloud)
-  [ ] HTTPS redirect
-  [ ] Attached ACM certificate
-[ ] Create a Route 53 A record (alias) pointing hello.awsportfolio to the CloudFront distribution
+[X] Request ACM certificate for hello.awsportfolio.jayfrench.cloud in us-east-1
+[X] Validate ACM certificate via DNS using Route 53
+[X] Create a CloudFront Distribution for the site
+[X] Configure CloudFront distribution with:
+  [X] S3 origin
+  [X] Default root object (index.html)
+  [X] Alternate domain name (hello.awsportfolio.jayfrench.cloud)
+  [X] HTTPS redirect
+  [X] Attached ACM certificate
+[X] Create a Route 53 A record (alias) pointing hello.awsportfolio to the CloudFront distribution
 
 Validation
-[ ] Verify public access to hello.awsportfolio.jayfrench.cloud
-[ ] Confirm valid HTTPS certificate is applied
-[ ] Confirm routing works from Route 53 to CloudFront to S3
-[ ] Confirm site loads and displays correctly
+[X] Verify public access to hello.awsportfolio.jayfrench.cloud
+[X] Confirm valid HTTPS certificate is applied
+[X] Confirm routing works from Route 53 to CloudFront to S3
+[X] Confirm site loads and displays correctly
 
 Notification
 [ ] Notify network of completed project stage:
@@ -33,5 +33,3 @@ Notification
   [ ] X.com
   [ ] YouTube
 
-Upgrade
-[ ] Define Stage 2 and create project checklist
