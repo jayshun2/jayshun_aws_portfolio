@@ -27,8 +27,8 @@ Validation
 [X] Confirm site loads and displays correctly
 
 Notification
-[ ] Notify network of completed project stage:
-  [ ] LinkedIn
+[X] Notify network of completed project stage:
+  [X] LinkedIn
   [ ] Facebook
   [ ] X.com
   [ ] YouTube
