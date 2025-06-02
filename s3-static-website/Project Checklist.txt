@@ -5,10 +5,10 @@ Coding
 [X] Create HTML file for basic website (Hello World with Link to Github Repo)
 
 AWS Configuration
-[ ] Create an S3 bucket named hello.awsportfolio.jayfrench.cloud
-[ ] Enable static website hosting on the bucket
+[X] Create an S3 bucket named hello.awsportfolio.jayfrench.cloud
+[X] Enable static website hosting on the bucket
 [ ] Configure bucket policy or Origin Access Control (OAC) for public/CloudFront read access
-[ ] Upload website files (HTML/CSS/JS) to the S3 bucket
+[X] Upload website files (HTML/CSS/JS) to the S3 bucket
 [ ] Request ACM certificate for hello.awsportfolio.jayfrench.cloud in us-east-1
 [ ] Validate ACM certificate via DNS using Route 53
 [ ] Create a CloudFront Distribution for the site
