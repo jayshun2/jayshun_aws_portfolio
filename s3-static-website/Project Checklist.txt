@@ -29,7 +29,6 @@ Validation
 Notification
 [X] Notify network of completed project stage:
   [X] LinkedIn
-  [ ] Facebook
   [ ] X.com
-  [ ] YouTube
+  [ ] YouTube (Youtube not set up yet)
 
